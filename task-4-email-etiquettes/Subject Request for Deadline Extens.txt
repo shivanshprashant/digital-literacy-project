@@ -1,0 +1,17 @@
+Subject: Request for Deadline Extension - CSE0001 Digital Literacy Project - SHIVANSH PRASHANT
+
+Dear Professor [Professor's Last Name],
+
+I hope this email finds you well. 
+
+I am writing to respectfully request a 48-hour extension on the upcoming Digital Literacy project, currently due on March 31. Over the past few days, I have encountered an unexpected system failure with my local development environment that has temporarily delayed my ability to compile the final GitHub repository structure. 
+
+I have already completed the visual assets and the project report drafts, and I am currently resolving the technical issue. An extension to April 2 would allow me to ensure the final submission meets the rigorous standards expected for this course.
+
+Thank you for your time and understanding. I have attached my current progress for your reference.
+
+Best regards,
+
+Shivansh Prashant
+Registration Number: 25BAI10384
+B.Tech CSE (AIML), First Year

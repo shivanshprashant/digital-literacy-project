@@ -1,0 +1,17 @@
+Subject: Summer Internship Inquiry - AI/ML Engineering Intern - Shivansh Prashant
+
+Dear [Coordinator's Name or Hiring Team],
+
+I hope you are having a productive week. 
+
+My name is Shivansh Prashant, a first-year B.Tech CSE (AIML) student at VIT Bhopal. I am writing to express my strong interest in the AI/ML Summer Internship position at [Company Name]. 
+
+Over the past academic year, I have been rigorously building a foundation in Java and Data Structures, while simultaneously maintaining a highly active GitHub repository and Kaggle profile focused on algorithmic efficiency and data processing. I am particularly drawn to [Company Name]'s recent work in [mention a specific company project or domain, e.g., predictive analytics], and I am eager to contribute my foundational skills to your development pipeline while learning from your senior architecture team.
+
+I have included a link to my digital portfolio (GitHub/LinkedIn) below. I have also attached my resume for your review. Thank you for considering my application. I look forward to the possibility of discussing how I can add value to your team.
+
+Best regards,
+
+Shivansh Prashant
+https://github.com/shivanshprashant
+www.linkedin.com/in/shivansh-prashant-36500a36a
